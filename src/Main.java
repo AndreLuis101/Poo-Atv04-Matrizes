@@ -20,6 +20,5 @@ public class Main {
         System.out.println(a.isSquare());
         System.out.println(b.isSymmetric());
         System.out.println(a.getTranspose());
-
     }
 }
